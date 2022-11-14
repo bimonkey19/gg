@@ -1,0 +1,159 @@
+{
+  "token": "",
+  "mongodb": "mongodb+srv://TyGV:09332833685Ty@cluster0.ki5sg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": ".",
+  "ip": "",
+  "servername": "Go Griffin",
+  "adminid": ["Ai được dùng thì dán id role"],
+  "simsimroomid": "",
+  "chatlogid": "971037300760928288",
+  "bancheckchannel": "để trống",
+  "botlogchannel": "971037300760928288",
+  "allowall": true,
+  "allowchannelid": [],
+  "blacklistnganhdata": {
+    "police": {
+      "content": "Truy Nã",
+      "rolestaffid": [""],
+      "commandroomid": "",
+      "banroomid": "978330047956004895",
+      "banroom2id": "978303409172131911",
+      "banlogid": "978303460745302016",
+      "bancheckid": "978303553812721664",
+      "tkroomid": "917311348294189057"
+    },
+
+    "med": {
+      "content": "BlackList",
+      "rolestaffid": [""],
+      "commandroomid": "",
+      "banroomid": "978330047956004895",
+      "banroom2id": "978303409172131911",
+      "banlogid": "978303460745302016",
+      "bancheckid": "978303553812721664",
+      "tkroomid": "917311348294189057"
+    },
+    "ch": {
+      "content": "BlackList",
+      "rolestaffid": [""],
+      "commandroomid": "",
+      "banroomid": "978330047956004895",
+      "banroom2id": "978303409172131911",
+      "banlogid": "978303460745302016",
+      "bancheckid": "978303553812721664",
+      "tkroomid": "917311348294189057"
+    },
+    "toannganh": {
+      "content": "BlackList",
+      "rolestaffid": [""],
+      "banroomid": "897119866518138961",
+      "banlogid": "917315777529516082"
+    },
+    "cdl": {
+      "content": "BlackList",
+      "rolestaffid": [""],
+      "commandroomid": "",
+      "banroomid": "917567500080787506",
+      "banlogid": "917315777529516082",
+      "bancheckid": "917599323179593818",
+      "tkroomid": "917567460046164008"
+    }
+  },
+  "nametag": {
+    "police": [
+      "police ",
+      "qlcs ",
+      "gđcs ",
+      "pgđcs ",
+      "police |",
+      "police ",
+      "sec ",
+      "swat "
+    ],
+    "qy": [
+      "quân y ",
+      "quân y|",
+      "qlqy ",
+      "gđqy ",
+      "gdqy ",
+      "qy ",
+      "quan y ",
+      "quâny"
+    ],
+    "med": [
+      "med ",
+      "med|",
+      "gđbs ",
+      "pgđbs ",
+      "gdbs ",
+      "gđbv ",
+      "gdbv ",
+      "pgdbs ",
+      "tkbs ",
+      "gsbs ",
+      "qlbs "
+    ],
+    "ch": [
+      "qlch ",
+      "ch ",
+      "gđch ",
+      "pgđch ",
+      "gdch ",
+      "pgdch ",
+      "pqlch ",
+      "tkch ",
+      "tkgd ",
+      "tkgđ ",
+      "gsch"
+    ],
+    "lo": ["lowolf"],
+    "gg": ["gg"],
+    "vgz": ["vgz"],
+    "as": ["assassin"],
+    "bl": ["blood", "blood"],
+    "sb": ["sb"],
+    "hm": ["hắc ma", "Hắc Ma"],
+    "bhh": ["bhh", "bhh", "bhh", "bhh"],
+    "king": ["kingCobra", "kingCobra", "kingCobra", "kingCobra"]
+  },
+  "gang": [
+    {
+      "label": "LOWOLF",
+      "nametag": ["lowolf"]
+    },
+    {
+      "label": "Go Griffin",
+      "nametag": ["gg"]
+    },
+    {
+      "label": "VGz",
+      "nametag": ["vgz"]
+    },
+    {
+      "label": "Assassin",
+      "nametag": ["assassin"]
+    },
+    {
+      "label": "Blood",
+      "nametag": ["Blood", "Blood"]
+    },
+    {
+      "label": "Showbiz",
+      "nametag": ["sb"]
+    },
+    {
+      "label": "Hắc Ma",
+      "nametag": ["hắc ma", "Hắc Ma"]
+    },
+    {
+      "label": "Băng Hồng Hưng",
+      "nametag": ["bhh", "bhh", "bhh", "bhh"]
+    },
+    {
+      "label": "KingCobra",
+      "nametag": ["kingCobra", "kingCobra", "kingCobra", "kingCobra"]
+    }
+  ],
+
+  "resban": []
+}

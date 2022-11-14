@@ -1,0 +1,6 @@
+rolestaffid là role có thể sử dụng lệnh
+commandroomid là id room dùng lệnh
+banroomid là room đáp lại lệnh 
+banroom2id là room đáp lại lệnh auto
+banlogid là check log người dùng và auto
+bancheckid là cập nhật blacklist online
